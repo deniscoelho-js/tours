@@ -1,5 +1,7 @@
 # Tours
 
+![tours](https://user-images.githubusercontent.com/83840866/151431695-36fd5f06-d322-4307-8c89-dea6b115686f.gif)
+
 ## O desafio
 
 Mostrar pontos turísticos com a opção de ler mais sobre o local. Os dados são consumidos de uma api personalizada.
